@@ -733,7 +733,7 @@ a {
 .cid-uoLMz3s8Fi {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/solar-wind-784x540.png");
 }
 @media (max-width: 991px) {
   .cid-uoLMz3s8Fi .image-wrapper {
@@ -748,46 +748,97 @@ a {
     padding: 2rem;
   }
 }
-.cid-uoWuqUHTx8 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-upOVIX1eOu {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-uoWuqUHTx8 .top-line {
-  display: flex;
-  justify-content: space-between;
+.cid-upOVIX1eOu .nav-tabs .nav-item.open .nav-link:focus,
+.cid-upOVIX1eOu .nav-tabs .nav-link.active:focus {
+  outline: none;
 }
-.cid-uoWuqUHTx8 .mbr-section-title,
-.cid-uoWuqUHTx8 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-uoWuqUHTx8 .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-uoWuqUHTx8 .card-wrapper {
-  border-radius: 4px;
-  background-color: #fafafa;
-  background-color: transparent;
-}
-.cid-uoWuqUHTx8 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
+.cid-upOVIX1eOu .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #45bc5a;
 }
 @media (max-width: 767px) {
-  .cid-uoWuqUHTx8 .card-box {
-    padding: 1rem;
+  .cid-upOVIX1eOu .nav-item {
+    width: 100%;
+    margin: 0;
   }
 }
-@media (min-width: 768px) {
-  .cid-uoWuqUHTx8 .card-box {
-    padding-right: 2rem;
+.cid-upOVIX1eOu .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+}
+.cid-upOVIX1eOu .nav-tabs .nav-link:not(.active) {
+  color: #000000;
+}
+.cid-upOVIX1eOu .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-upOVIX1eOu .nav-link,
+.cid-upOVIX1eOu .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-upOVIX1eOu .nav-tabs .nav-link.active {
+  color: #45bc5a;
+  border-bottom: 3px solid #45bc5a;
+}
+.cid-upOVIX1eOu H4 {
+  text-align: center;
+}
+.cid-upOVIX1eOu H3 {
+  text-align: center;
+  color: #45bc5a;
+}
+.cid-upOVJy4X1E {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-upOVJy4X1E .nav-tabs .nav-item.open .nav-link:focus,
+.cid-upOVJy4X1E .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-upOVJy4X1E .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #45bc5a;
+}
+@media (max-width: 767px) {
+  .cid-upOVJy4X1E .nav-item {
+    width: 100%;
+    margin: 0;
   }
 }
-@media (min-width: 992px) {
-  .cid-uoWuqUHTx8 .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
+.cid-upOVJy4X1E .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+}
+.cid-upOVJy4X1E .nav-tabs .nav-link:not(.active) {
+  color: #000000;
+}
+.cid-upOVJy4X1E .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-upOVJy4X1E .nav-link,
+.cid-upOVJy4X1E .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-upOVJy4X1E .nav-tabs .nav-link.active {
+  color: #45bc5a;
+  border-bottom: 3px solid #45bc5a;
+}
+.cid-upOVJy4X1E H4 {
+  text-align: center;
+}
+.cid-upOVJy4X1E H3 {
+  text-align: center;
+  color: #45bc5a;
 }
 .cid-uoL9nt1URe {
   z-index: 1000;
@@ -1136,15 +1187,6 @@ a {
     left: -1rem;
   }
 }
-.cid-uoLCM3Tk0u {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-uoLCM3Tk0u .mbr-text,
-.cid-uoLCM3Tk0u .link {
-  text-align: left;
-}
 .cid-uoLpqIvoYu {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1213,49 +1255,31 @@ a {
 .cid-uoLpqIvoYu .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-uoXUhtbkJl {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-uoXUhtbkJl .content-wrapper {
-  background: #ffffff;
+.cid-upRBRXRb68 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/solar-wind-784x540.png");
 }
 @media (max-width: 991px) {
-  .cid-uoXUhtbkJl .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-uoXUhtbkJl .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
+  .cid-upRBRXRb68 .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-uoXUhtbkJl .content-wrapper {
-    padding: 1rem;
-  }
+.cid-upRBRXRb68 .row {
+  flex-direction: row-reverse;
 }
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-uoXUhtbkJl .content-wrapper {
+.cid-upRBRXRb68 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-upRBRXRb68 .text-wrapper {
     padding: 2rem;
   }
 }
-@media (min-width: 992px) {
-  .cid-uoXUhtbkJl .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-uoXUhtbkJl .content-wrapper .text-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-uoXUhtbkJl .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-uoXUhtbkJl .mbr-text,
-.cid-uoXUhtbkJl .mbr-section-btn {
+.cid-upRBRXRb68 .mbr-text {
   text-align: center;
 }
-.cid-uoXUhtbkJl .card-title {
+.cid-upRBRXRb68 .mbr-section-title {
   text-align: center;
 }
 .cid-uoLIncnhVR {
@@ -1866,6 +1890,7 @@ a {
 }
 .cid-uoLYmel9vS H3 {
   text-align: left;
+  color: #4479d9;
 }
 .cid-uoLYmel9vS H4 {
   text-align: left;
@@ -1971,49 +1996,31 @@ a {
 .cid-uoLpqIvoYu .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-uoXWbZ2rw0 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-uoXWbZ2rw0 .content-wrapper {
-  background: #ffffff;
+.cid-upRBajxHY6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/solar-wind-784x540.png");
 }
 @media (max-width: 991px) {
-  .cid-uoXWbZ2rw0 .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-uoXWbZ2rw0 .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
+  .cid-upRBajxHY6 .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-uoXWbZ2rw0 .content-wrapper {
-    padding: 1rem;
-  }
+.cid-upRBajxHY6 .row {
+  flex-direction: row-reverse;
 }
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-uoXWbZ2rw0 .content-wrapper {
+.cid-upRBajxHY6 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-upRBajxHY6 .text-wrapper {
     padding: 2rem;
   }
 }
-@media (min-width: 992px) {
-  .cid-uoXWbZ2rw0 .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-uoXWbZ2rw0 .content-wrapper .text-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-uoXWbZ2rw0 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-uoXWbZ2rw0 .mbr-text,
-.cid-uoXWbZ2rw0 .mbr-section-btn {
+.cid-upRBajxHY6 .mbr-text {
   text-align: center;
 }
-.cid-uoXWbZ2rw0 .card-title {
+.cid-upRBajxHY6 .mbr-section-title {
   text-align: center;
 }
 .cid-uoKGx3hqM7 {
@@ -2054,16 +2061,8 @@ a {
   width: 1.6rem;
 }
 .cid-uoKKBPgQxq H3 {
-  color: #4479d9;
+  color: #45bc5a;
   text-align: center;
-}
-.cid-upB57okJuK {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-upB57okJuK .mbr-section-title {
-  color: #4479d9;
 }
 .cid-uoL9nt1URe {
   z-index: 1000;
@@ -2412,24 +2411,51 @@ a {
     left: -1rem;
   }
 }
-.cid-upB3l9YMJM {
-  padding-top: 0rem;
-  padding-bottom: 2rem;
+.cid-upRCpF07Dc {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
-@media (max-width: 991px) {
-  .cid-upB3l9YMJM .image-wrapper {
-    margin-bottom: 1rem;
+.cid-upRCpF07Dc .nav-tabs .nav-item.open .nav-link:focus,
+.cid-upRCpF07Dc .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-upRCpF07Dc .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #45bc5a;
+}
+@media (max-width: 767px) {
+  .cid-upRCpF07Dc .nav-item {
+    width: 100%;
+    margin: 0;
   }
 }
-.cid-upB3l9YMJM .row {
-  flex-direction: row-reverse;
+.cid-upRCpF07Dc .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
 }
-.cid-upB3l9YMJM img {
-  width: 100%;
+.cid-upRCpF07Dc .nav-tabs .nav-link:not(.active) {
+  color: #111111;
 }
-.cid-upB3l9YMJM .mbr-description {
-  color: #4479d9;
+.cid-upRCpF07Dc .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-upRCpF07Dc .nav-link,
+.cid-upRCpF07Dc .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-upRCpF07Dc .nav-tabs .nav-link.active {
+  color: #45bc5a;
+  border-bottom: 3px solid #45bc5a;
+}
+.cid-upRCpF07Dc H4 {
+  text-align: center;
+}
+.cid-upRCpF07Dc H3 {
+  text-align: center;
+  color: #45bc5a;
 }
 .cid-uoLpqIvoYu {
   padding-top: 2rem;
@@ -2849,11 +2875,11 @@ a {
 .cid-upchJL6vKn {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mbr-1836x1227.jpg");
+  background-image: url("../../../assets/images/solar-wind-784x540.png");
 }
 .cid-upchJL6vKn .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.2;
+  opacity: 0.6;
 }
 .cid-upchJL6vKn form .mbr-section-btn {
   text-align: center;
